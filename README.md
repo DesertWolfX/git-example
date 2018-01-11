@@ -1,2 +1,2 @@
 # git-example
-Learning with GitKraken
+Learning GitKraken
